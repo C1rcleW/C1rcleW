@@ -83,7 +83,7 @@ Three lenses, one question: **how do rules, incentives, and networks shape behav
   <img src="./assets/chapter-03.svg" width="100%" alt="Chapter 03 — Public Activity. An extruded wireframe numeral 03 and a split specimen plate with a flowing neural network in paper and black, accented in Google blue, red, yellow and green." />
 </div>
 
-<p><sub>Public GitHub contributions, last 12 months — updated daily.</sub></p>
+<p><sub>Public GitHub contributions, last 12 months.</sub></p>
 
 <div align="center">
   <img src="./assets/contributions.svg" width="100%" alt="Public contribution log on a paper data plate: a year of contribution cells, totals and streaks, with peak days marked in Google blue, green, yellow and red." />
