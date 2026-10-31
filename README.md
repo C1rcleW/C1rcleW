@@ -27,7 +27,6 @@ STATUS    OPEN TO COLLABORATION
 
 <!-- Snake is generated into the output branch by .github/workflows/main.yml. -->
 
-<img src="https://raw.githubusercontent.com/C1rcleW/C1rcleW/output/github-contribution-grid-snake-google.svg" width="100%" alt="Animated contribution snake generated from public GitHub activity" />
 
 ## 04 — SELECTED WORK
 
