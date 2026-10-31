@@ -19,7 +19,6 @@
 
 > I use simple models and clear visuals to examine policy questions.
 
-### RESEARCH
 
 <div align="center">
   <img src="./assets/chapter-01.svg" width="100%" alt="Chapter 01 — Research Matrix. An extruded wireframe numeral 01 and a split specimen plate with a cube intersecting a plane." />
@@ -46,7 +45,6 @@ Three lenses, one question: **how do rules, incentives, and networks shape behav
   </tr>
 </table>
 
-### METHOD STACK
 
 <div align="center">
   <img src="./assets/chapter-02.svg" width="100%" alt="Chapter 02 — Method Stack. An extruded wireframe numeral 02 and a split specimen plate with an exploded layer stack." />
@@ -77,25 +75,20 @@ Three lenses, one question: **how do rules, incentives, and networks shape behav
 
 <p><sub><samp>WORKING STYLE</samp> — research first · reproducible when possible · clear about limits.</sub></p>
 
-### PUBLIC ACTIVITY
 
 <div align="center">
   <img src="./assets/chapter-03.svg" width="100%" alt="Chapter 03 — Public Activity. An extruded wireframe numeral 03 and a split specimen plate with a flowing neural network in paper and black, accented in Google blue, red, yellow and green." />
 </div>
 
-<p><sub>Public GitHub contributions, last 12 months — updated daily.</sub></p>
 
 <div align="center">
   <img src="./assets/contributions.svg" width="100%" alt="Public contribution log on a paper data plate: a year of contribution cells, totals and streaks, with peak days marked in Google blue, green, yellow and red." />
 </div>
 
-### CONTACT
-
 <div align="center">
   <img src="./assets/contact.svg" width="100%" alt="Open to collaborate. A Google-gradient field and black void split the page; the words OPEN TO COLLABORATE cross the split, alongside a wireframe portal." />
 </div>
 
-Open to conversations on policy, AI governance, and complex systems.
 
 <p align="center">
   <a href="mailto:wzy999999097@gmail.com"><samp>EMAIL ↗</samp></a>&nbsp;&nbsp;/&nbsp;&nbsp;
